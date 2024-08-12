@@ -1,0 +1,38 @@
+
+/**/
+
+.color_parrafo{
+    background-color: hsl(20, 80%, 51%);
+    width: 250px;
+    height: 190px;
+}
+.color_parrafo2{
+    background-color: rgb(255, 87, 51);
+    background: linear-gradient(to right, red, green);
+}
+
+
+/* rgba transparencia opacidad va de 0 a 1 */
+.color_parrafo3{
+    background-color: rgba(255, 87, 51, 0.7);
+    text-shadow: 2px 2px 4px #000;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.color_parrafo4{
+    background-color: lightblue;
+    width: 80%;
+    height: 900px;
+    background-image: url(../img/zapatos1.jpg);
+
+}
+
+.color_parrafo5{
+    background-color: lightblue;
+    width: 20%;
+    height: 180px;
+    background-image: url(https://w7.pngwing.com/pngs/723/143/png-transparent-shoe-nike-free-air-force-nike-shoes-image-file-formats-fashion-outdoor-shoe-thumbnail.png);
+
+}
+
+

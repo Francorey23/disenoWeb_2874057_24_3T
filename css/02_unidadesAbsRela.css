@@ -1,0 +1,44 @@
+.rectangulo_px{
+    background-color: darkgray;
+    width: 190px;
+    height: 80px;
+}
+
+.rectangulo_porcentaje{
+    background-color: yellowgreen;
+    width: 50%;
+    height: 75px;
+}
+
+/* vw anchura wh = altura */
+
+.rectangulo_vw{
+    background-color: pink;
+    width: 50vw;
+    height: 75px;
+}
+
+a{
+    background-color: brown;
+    width: 50%;
+    height: 75px;
+    display: inline-block;
+}
+
+.parrafo_px{
+    font-size: 21px;
+}
+
+/* trabaja sobre el elemento padre em= 1.3 x 16  = 20.8*/
+.parrafo_em{
+    font-size: 1.3em;
+}
+
+.parrafo_ref{
+    font-size: 1.2rem;
+}
+
+/* elemento raiz rem: 1.3 * 12*16 ->24.96*/
+.parrafo_rem{
+    font-size: 1.3rem;
+}

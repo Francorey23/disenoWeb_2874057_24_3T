@@ -1,0 +1,43 @@
+
+/* Selector de elementos */
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Selector de ID */
+#productos{
+    background-color: chartreuse;
+    padding: 20px;
+    color: white;
+}
+
+/* selectores de clase mas trabajado*/
+.producto{
+    font-size: 28px;
+    list-style-type: none;
+    padding: 10px;
+
+}
+
+/* Seudoclases a:Href active, hover, link, visited*/
+a:active{
+    color: green;
+}
+
+h1:hover{
+    color: brown;
+}
+
+header:hover{
+    background-color: yellow;
+
+}
+
+
+
